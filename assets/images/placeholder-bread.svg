@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <rect width="100%" height="100%" fill="#FFF8EC" rx="16"/>
+  <!-- Decorative Wreath Pattern Background -->
+  <path d="M 50 150 Q 80 50 200 50 Q 320 50 350 150" fill="none" stroke="#1E5631" stroke-width="1" stroke-dasharray="4 6" opacity="0.2"/>
+  
+  <!-- Bread Loaf Illustration -->
+  <g transform="translate(110, 100)" stroke="#1E5631" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- Loaf Main Shape -->
+    <path d="M 20 60 C 20 30, 40 20, 90 20 C 140 20, 160 30, 160 60 C 160 90, 140 100, 90 100 C 40 100, 20 90, 20 60 Z" fill="#FFFFFF"/>
+    <path d="M 20 60 C 10 60, 0 65, 0 75 C 0 85, 20 95, 90 95" stroke-dasharray="2 4"/>
+    <!-- Diagonal Cuts on Bread -->
+    <path d="M 50 35 L 65 70" />
+    <path d="M 80 32 L 95 70" />
+    <path d="M 110 32 L 125 70" />
+  </g>
+
+  <!-- Bun Illustration -->
+  <g transform="translate(210, 140)" stroke="#1E5631" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- Bun Shape -->
+    <path d="M 10 50 C 10 20, 90 20, 90 50 C 90 60, 75 70, 50 70 C 25 70, 10 60, 10 50 Z" fill="#C8102E" fill-opacity="0.05" />
+    <!-- Bun Details -->
+    <path d="M 30 30 A 10 10 0 0 1 45 35" />
+    <path d="M 55 30 A 10 10 0 0 1 70 35" />
+    <path d="M 20 50 Q 50 55 80 50" />
+  </g>
+
+  <!-- Wheat stalk decoration -->
+  <g transform="translate(60, 160) rotate(-35)" stroke="#1E5631" stroke-width="2" stroke-linecap="round" fill="none">
+    <line x1="0" y1="80" x2="0" y2="0"/>
+    <path d="M 0 40 Q -10 30 0 20 Q 10 30 0 40 Z" fill="#1E5631" fill-opacity="0.1"/>
+    <path d="M 0 20 Q -10 10 0 0 Q 10 10 0 20 Z" fill="#1E5631" fill-opacity="0.1"/>
+    <path d="M 0 0 Q -10 -10 0 -20 Q 10 -10 0 0 Z" fill="#1E5631" fill-opacity="0.1"/>
+  </g>
+  
+  <text x="50%" y="260" font-family="'Poppins', sans-serif" font-size="16" font-weight="500" fill="#1E5631" text-anchor="middle" letter-spacing="1.5">BREADS &amp; BUNS</text>
+  <text x="50%" y="278" font-family="'Poppins', sans-serif" font-size="11" font-weight="400" fill="#C8102E" text-anchor="middle" letter-spacing="0.5">VELA BAKES STANDARD</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <circle cx="100" cy="100" r="95" fill="#FFF8EC" stroke="#1E5631" stroke-width="2" stroke-dasharray="3 3"/>
+  <circle cx="100" cy="100" r="85" fill="#1E5631" fill-opacity="0.05"/>
+  <!-- Human Head and Shoulders Silhouette -->
+  <g stroke="#1E5631" stroke-width="3.5" stroke-linecap="round" fill="none">
+    <!-- Head -->
+    <circle cx="100" cy="75" r="22" fill="#FFFFFF"/>
+    <!-- Shoulders -->
+    <path d="M 50 145 C 50 120, 70 115, 100 115 C 130 115, 150 120, 150 145" fill="#FFFFFF"/>
+    <!-- Laurel leaf detail in center of chest -->
+    <path d="M 95 130 C 97 125, 103 125, 105 130 C 103 135, 97 135, 95 130 Z" fill="#C8102E" stroke="none"/>
+  </g>
+</svg>
